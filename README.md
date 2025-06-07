@@ -20,4 +20,5 @@ This repository contains the individual stems for **Beat Vol. 1**, a beat tape I
 
 ## License
 
-See the [LICENSE](LICENSE) file for details.
+All stems in this repository are shared under the
+[Creative Commons Attribution 4.0 International](LICENSE) license.
