@@ -4,8 +4,8 @@ This repository contains the individual stems for **Beat Vol. 1**, a beat tape I
 
 - **Listen to the full tape** on all major streaming platforms and download it on [Bandcamp](
 https://nsider.bandcamp.com/album/beat-tape-vol-1).
-- **You are free to use the stems however you like**
-- **Credit appreciated:** If you share work based on these beats/stems, a shout-out (produced by Nsider) or a link back is always welcome.
+- **You are free to use the stems however you'd like.**
+- **Credit appreciated:** If you share work based on these beats/stems, a shout-out (produced by Nsider) or a link back is welcome.
 
 ---
 
